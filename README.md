@@ -1,7 +1,16 @@
 <div align=center> 
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=250&section=header&text=Jungmyung&fontSize=80&fontAlign=70&fontAlignY=40)
-<!--
+ 
+ <h3> Hi there 🙋 </h3>
+ <p>
+   I am Jungmyung Kim from South Korea and I am interested in Data Science.<br>
+   I Just finised Semi project about 'Credit card customer churn model' with R. <br>
+   And currently moved on to learn Pandas and Numpy. 
+ </p>
+ 
+  
+ <!--
 **jungmyung-kr/jungmyung-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
