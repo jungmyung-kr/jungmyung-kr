@@ -1,7 +1,6 @@
 <div align=center> 
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=76757a&height=300&section=header&text=Jungmyung&fontColor=ffffff&fontSize=70&fontAlign=70&fontAlignY=30&rotate=20)
-
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=250&section=header&text=Jungmyung&fontSize=80&fontAlign=70&fontAlignY=40)
 <!--
 **jungmyung-kr/jungmyung-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="">
 -->
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyung-kr&layout=compact&theme=graywhite&show_icons=true)](https://github.com/jungmyung-kr/)
   
   [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyung-kr&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
-    
+  
+  
+      
   <h2>📚 Tech Stacks</h2>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -33,6 +35,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
 
-  
   
 </div>
