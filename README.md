@@ -1,13 +1,14 @@
 <div align=center> 
-
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=250&section=header&text=Jungmyung&fontSize=80&fontAlign=70&fontAlignY=40)
+ <div> 
+  <img src="https://user-images.githubusercontent.com/99528286/165580036-242eee4a-33ab-4588-8b9e-7038136f4e63.jpg">
  
- <h3> Hi there 🙋 </h3>
- <p>
-   I am Jungmyung Kim from South Korea and I am interested in Data Science.<br>
-   I Just finised Semi project about 'Credit card customer churn model' with R. <br>
-   And currently moved on to learn Pandas and Numpy. 
- </p>
+ 
+  <h3> Hi there 🤚 </h3>
+  <li> I am Jungmyung Kim from South Korea and I am interested in Data Science.</li>
+  <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis.</li>
+  <li>  I Just finised Semi project about 'Credit card customer churn model' with R. </li>
+  <li>  And moving on to learn Pandas and Numpy. </li>
+ </div>
  
   
  <!--
@@ -26,23 +27,33 @@ Here are some ideas to get you started:
 <img src="">
 -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyung-kr&layout=compact&theme=graywhite&show_icons=true)](https://github.com/jungmyung-kr/)
+  <div> 
+   <br>
+   <br>
+   <h3> 🔧Tech Stacks🔧 </h3>
+   <br>
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+   <br>
+   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+   <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
+   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+   <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
+  </div>
   
-  [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyung-kr&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
   
-  
-      
-  <h2>📚 Tech Stacks</h2>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-  <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
-
-  
+  <div>
+   <br>
+   <br>
+   <h3> 🗣Languages & Stats🗣 </h3>
+   <br>
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyung-kr&layout=compact&theme=graywhite&show_icons=true)](https://github.com/jungmyung-kr/)
+   
+   [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyung-kr&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
+   <br>
+  </div> 
 </div>
