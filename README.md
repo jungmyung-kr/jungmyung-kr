@@ -6,7 +6,7 @@
   <h3> Hi there 🤚 </h3>
   <li> I am Jungmyung Kim from South Korea and I am interested in Data Science.</li>
   <li> I’m currently taking Machine Learning Expert Training Course for a Big Data Analysis.</li>
-  <li>  I Just finised Semi project about 'Credit card customer churn model' with R. </li>
+  <li>  I Just finished Semi-project about 'Credit Card Customer Churn Model' with R. </li>
   <li>  And moving on to learn Pandas and Numpy. </li>
  </div>
  
