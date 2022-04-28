@@ -51,9 +51,8 @@ Here are some ideas to get you started:
    <h3> 🗣Languages & Stats🗣 </h3>
    <br>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyung-kr&layout=compact&theme=graywhite&show_icons=true)](https://github.com/jungmyung-kr/)
-   
-   [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyung-kr&show_icons=true&theme=graywhite&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyung-kr&layout=compact&theme=graywhite&show_icons=true&border_color=ffffff)](https://github.com/jungmyung-kr/)
+   [![Jungmyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyung-kr&show_icons=true&theme=graywhite&border_color=ffffff&hide=issues,contribs)](https://github.com/jungmyung-kr/github-readme-stats)
    <br>
   </div> 
 </div>
