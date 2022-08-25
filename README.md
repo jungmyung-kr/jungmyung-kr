@@ -6,8 +6,9 @@
   <h3> Hi there 🤚 </h3>
   <li> I am Jungmyung Kim from South Korea and I am interested in Data Science.</li>
   <li> I took Machine Learning Expert Training Course for a Big Data Analysis.</li>
-  <li>  I've done Semi-project about 'Credit Card Customer Churn Model' with R. </li>
-  <li>  And another project about image classification with Python. </li>
+  <li> I've done Semi-project about 'Credit Card Customer Churn Model' with R. </li>
+  <li> And another project about image classification with Python. </li>
+  <li> I am currently working on computer vision project using Pytorch. </li>
  </div>
  
   
