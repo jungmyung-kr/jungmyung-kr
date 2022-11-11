@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/99528286/165580036-242eee4a-33ab-4588-8b9e-7038136f4e63.jpg">
  
  
-  <h3> Hi there 🤚</h3>
+  <h3> Hi there 🤚 </h3>
   <li> I am Jungmyung Kim from South Korea and I am interested in Data Science.</li>
   <li> I took Machine Learning Expert Training Course for a Big Data Analysis.</li>
   <li> I've done Semi-project about 'Credit Card Customer Churn Model' with R.</li>
